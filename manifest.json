@@ -1,0 +1,15 @@
+{
+  "name": "Seminário de Iniciação à Pesquisa",
+  "short_name": "Seminário de Iniciação à Pesquisa",
+  "start_url": "/syllabus-seminario-pesquisa/",
+  "scope": "/syllabus-seminario-pesquisa/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/syllabus-seminario-pesquisa/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Organização e Manutenção de Computadores</title>
+    <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/</link>
+    <description>Recent content in Docs on Organização e Manutenção de Computadores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/syllabus-orgman/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-01/</guid>
+      <description>Aula 01 - 11.11.2021   Link: https://youtu.be/vbGwiXheSCQ
+Slides: https://jp-guimaraes.github.io/orgman_slides00/#/
+Conteúdos vistos: Introdução à disciplina;
+Quadro:
+Material complementar: Links dos slides; Capítulo 7 - Sapiens (disponível no Teams); Teste objetivo (disponível no Teams); Elaboração de resenha crítica (detalhes no Teams);</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-02/</guid>
+      <description>Aula 02 - 12.11.2021   Link: https://youtu.be/RZSyWlIr0iw
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdos: Conceito de computador; Plataforma; Introdução à arquitetura de computadores;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Seção 1.2 - Livro Tanenbaum; Vídeo - Redstone Computer</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-03/</guid>
+      <description>Aula 03 - 18.11.2021   Link: https://youtu.be/_nkyFshC3ck
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdo: Integração hardware software; Revisão: Lógica booleana; Portas lógicas; Transistores; Resistores;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 3 - Organização estruturada de Computadores - Tanenbaum;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-04/</guid>
+      <description>Aula 04 - 19.11.2021   Link: https://youtu.be/faAIKHiwYOM
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdo: Circuito Somador; Célula de memória; Implementação de circuitos aritméticos e de memória; Operações sobre memórias; Método de abstração por camadas; Interpretador e Tradutor; Camadas L0,L1 e L2;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 4 - Organização estruturada de Computadores - Tanenbaum;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-05/</guid>
+      <description>Aula 05 - 25.11.2021   Link: https://youtu.be/Hl0JdYbfdDw
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdo: Revisão dos níveis 0,1 e 2; Níveis 3,4 e 5; Compiladores, tradutores, interpretadores; Análise do deassembly de códigos de alto nível;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 5 - Organização estruturada de Computadores - Tanenbaum;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-06/</guid>
+      <description>Aula 06 - 26.11.2021   Link: https://youtu.be/7iuupNEWC60
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdo: Organização estruturada de Computadores, Arquitetura e Organização de Computadores; Arquitetura de von Newman; Diferentes arquiteturas atuais; Introdução à arquitetura x86;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Arquitetura e Organização de Computadores - Stallings;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-07/</guid>
+      <description>Aula 07 - 02.12.2021   Link: https://youtu.be/tyoUqeqUqhg
+Slides: https://jp-guimaraes.github.io/orgman_slides_intro/#/
+Conteúdo: Arquitetura x86-64; AVR; ARM; Cisc vs RISC; Revisão parte 1; Atividade avaliativa; Links/leituras complementares;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Arquitetura e Organização de Computadores - Stallings; Vídeo: O comptuador de Turing e von Neumann</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-08/</guid>
+      <description>Aula 08 - 03.12.2021   Link: https://youtu.be/ssf6abHC2_g
+Slides: https://jp-guimaraes.github.io/slides_componentes
+Conteúdo: Correção das atividades; Componentes dos computadores modernos: Laptops/Desktops; Detalhes de organização de computadores modernos: pirâmide de memória; Análise de caso prático; Computador desktop;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Hardware - Gabriel Torres;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-09/</guid>
+      <description>Aula 09 - 09.12.2021   Link: https://www.youtube.com/watch?v=vPDlyQc7ND0&amp;amp;ab_channel=JoãoPauloGuimarães
+Slides: https://jp-guimaraes.github.io/slides_componentes
+Conteúdo: Reconhecendo componentes internos de laptops e desktops;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Hardware - Gabriel Torres; Vídeo - Principais componentes de um PC</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-10/</guid>
+      <description>Aula 10 - 10.12.2021   Link: https://youtu.be/xsAD8-mPRHM
+Slides: https://jp-guimaraes.github.io/slides_componentes
+Conteúdo: Revisão dos componentes de Desktops e Laptops; Montagem de computadores do tipo Desktop;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Hardware - Gabriel Torres; Game - PC Building Simulator</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-11/</guid>
+      <description>Aula 11 - 16.12.2021   Link: https://youtu.be/QQGIqgp0_Sc
+Slides: https://jp-guimaraes.github.io/eletricidade_basica_slides/#/
+Conteúdo: Eletricidade básica para manutenção; Revisão de conceitos básicos;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 3 - Eletricidade básica - Milton Gussow;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-12/</guid>
+      <description>Aula 12 - 17.12.2021   Link: https://youtu.be/0q7PrQ3ETOA
+Slides: https://jp-guimaraes.github.io/eletricidade_basica_slides/#/
+Conteúdo: Eletricidade básica para manutenção; Revisão de conceitos básicos;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 33 - Livro Hardware - Curso completo (Gabriel Torres) pt1</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-13/</guid>
+      <description>Aula 13 - 23.12.2021   Link: https://youtu.be/RKbkc4nMdN0
+Slides: https://jp-guimaraes.github.io/eletricidade_basica_slides/#/
+Conteúdo: Problemas na rede elétrica; Equipamentos ligados entre o computador e a tomada;
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 3 - Eletricidade básica - Milton Gussow; Vídeo sobre eletricidade estática Capítulo 33 - Livro Hardware - Curso completo (Gabriel Torres) pt2; Fontes de alta eficiência - Google Proposta de padrão para servidores - 48V</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-14/</guid>
+      <description>Aula 14 - 24.12.2021   Link: https://youtu.be/-9UhpSGb9t0
+Slides: https://jp-guimaraes.github.io/slides_componentes
+Conteúdo: Identificando componentes em um Desktop e um laptop;
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 1 - Hardware - Gabriel Torres;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-15/</guid>
+      <description>Aula 15 - 30.12.2021   Link: https://youtu.be/tgZ_r0wsrzE
+Slides: https://jp-guimaraes.github.io/eletricidade_basica_slides/#/ Conteúdo: Equipamentos entre o computador e a tomada; Funcionamento, características e dimensionamento;
+Quadro:
+Material complementar: Links dos Slides; Teste objetivo; Vídeo - Aterramento</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-16/</guid>
+      <description>Aula 16 - 31.12.2021   Link: https://youtu.be/Mo5RKFFNUsI
+Conteúdo: Reparo em laptop - Identificando problema na bateria; Especificação de bateria equivalente; Troca/reparo de bateria de um laptop;
+Material complementar: Vídeo - Troca de bateria de um laptop Dell</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-17/</guid>
+      <description>Aula 17 - 06.01.2022    2
+Link: https://youtu.be/OOs81RSwF5k
+Slides: https://jp-guimaraes.github.io/eletricidade_basica_slides/#/
+Conteúdo: Correção das tarefas; Dimensionamento de Nobreaks e Estabilizadores; Potência real, aparente; Fator de potência; Potência reativa;
+Material complementar: Links dos Slides; Teste objetivo; Vídeo complementar - Eletricidade estática</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-18/</guid>
+      <description>Aula 18 - 07.01.2022   Link: https://youtu.be/VxRnWjmnweY
+Slides
+Conteúdo: Introdução as fontes de computadores; Tecnologias; Evolução;
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 33 - Livro Hardware - Curso completo (Gabriel Torres) pt1</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-19/</guid>
+      <description>Aula 19 - 27.01.2022   Link: https://youtu.be/6pNwnYIDoSQ
+Slides
+Conteúdo: Dimensionamento; Fontes de Desktop; Eficiência; PFC; Características;
+Material complementar: Links dos Slides; Teste objetivo; Artigo: High-efficiency power supplies for home computers and servers - Google Inc (2006)
+http://static.googleusercontent.com/media/services.google.com/pt-BR//blog_resources/PSU_white_paper.pdf
+Matéria: Google Contributes 48V DC Data Center Rack to Open Compute (2016)
+https://www.datacenterknowledge.com/archives/2016/03/09/google-contributes-48v-shallow-data-center-rack-to-ocp</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-20/</guid>
+      <description>Aula 20 - 28.01.2022   Link: https://youtu.be/mr3lTKU1zsk
+Slides: Fontes-
+Conteúdo: Dimensionamento de fontes;
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 33 - Livro Hardware - Curso completo (Gabriel Torres) pt2; Vídeos complementares sobre fontes: 1, 2 e 3.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-21/</guid>
+      <description>Aula 21 - 03.02.2022   Link: https://youtu.be/JHNfMB0xYMA
+ function myFunction(p1) { var stringSplitada = p1.split(&#34;.be/&#34;); return stringSplitada[1] } document.getElementById(&#34;demo&#34;).src = &#34;https://www.youtube.com/embed/&#34; + myFunction(&#34;https:\/\/youtu.be\/JHNfMB0xYMA&#34;);  Slides
+Conteúdo: Bios/POST; Procedimento de inicialização
+Material complementar: Links dos Slides; Teste objetivo; Vídeo complementar - Desativar UEFI Secure Boot; Acessando a BIOS; Capítulo 13 - Hardware - Guia Completo - Gabriel Torres - pt1;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-22/</guid>
+      <description>Aula 22 - 04.02.2022   Link: https://youtu.be/S0dJySyihCk
+Slides
+Conteúdo: Setup/BIOS; Procedimento de inicialização e diagnósticos
+Material complementar: Links dos Slides; Teste objetivo; Capítulo 13 - Hardware - Guia Completo - Gabriel Torres - pt2;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-23/</guid>
+      <description>Aula 23 - 10.02.2022   Link: https://youtu.be/eEHzx8Cekwk
+Slides
+Conteúdo: BIOS; MBR; UEFI; GPT; Legacy Mode
+Material complementar: Links dos Slides; Teste objetivo; Manual de serviço - Dell Inspiron</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-24/</guid>
+      <description>Aula 24 - 11.02.2022   Link: https://youtu.be/DrcuWAV1fNA
+Slides
+Conteúdo: Partições
+Material complementar: Links dos Slides; Teste objetivo; Leitura complementar - Gerenciadores de partição</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-25/</guid>
+      <description>Aula 25 - 17.02.2022   Link: https://youtu.be/4XyDGmDS4mM
+Slides
+Conteúdo: Sistemas de Arquivo; MBR x GPT; Clusters;
+Material complementar: Links dos Slides; Teste objetivo;Leitura complementar - MBR ou GPT?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-26/</guid>
+      <description>Aula 26 - 18.02.2022   Link: https://youtu.be/4XyDGmDS4mM
+Slides
+Conteúdo: Tipos de Sistemas de Arquivos; Características e comparativos entre Fat16,32,NTFS,exFat,EXT2,EXT3,EXT4
+Material complementar: Links dos Slides; Teste objetivo; Leitura complementar - Sistemas de arquivos no PC e no celular</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-27/</guid>
+      <description>Aula 27 - 24.02.2022 Aula síncrona presencial;
+Roteiro:
+Prática 1 – Introdução ao uso do multímetro Objetivo: Fazer com que o aluno conheça o instrumento multímetro, saiba usá-lo para medir a tensão em uma tomada e a continuidade para avaliar se o botão do gabinete está funcionando.
+Prática 2 – Teste de fonte Objetivo: Fazer com que o aluno saiba como testar a fonte fazendo o curto entre o pino verde e o pino preto; Conferência de tensões DC usando multímetro</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-28/</guid>
+      <description>Aula 28 - 03.03.2022   Link: https://youtu.be/4XyDGmDS4mM
+Slides
+Conteúdo: Hierarquia de memória; Armazenamento Secundário; Disco rígido, memória flash, discos óticos, nuvem (características e funcionamento); Redundânica; RAID; RAID 0, RAID 1, RAID 2,3,5,6,7; RAID 0+1, RAID 10, Conceitos e exemplos de mirroring e stripping
+&amp;ndash;&amp;gt;
+Material complementar: Links dos Slides; Teste objetivo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-29/</guid>
+      <description>Aula 29 - 10.03.2022 Aula síncrona presencial;
+Roteiro: Turma será dividida em 3; 1/3 estará no laboratório comigo realizando as 5 práticas a seguir; Segundo terço no laboratório 2 de Informática, realizando tarefas descritas abaixo; Último terço irá ao laboratório de biologia realizar prática com professora da disciplina; Depois os subgrupos vão revezar as posições;
+Para acessar o manual da placa mãe do desktop utilizado na prática, clique aqui.
+Prática 1 – Inicialização/Post/SETUP Objetivo: Entender o procedimento de inicialização e visualizar os softwares mais usados que fazem parte da BIOS: POST e SETUP;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-30/</guid>
+      <description>Aula 30 - 17.03.2022   Link: https://youtu.be/4XyDGmDS4mM
+Slides RAM Slides CPU
+Conteúdo: Armazenamento primário: Histórico, tecnologias e tendências; Processador: Histórico, tecnologias e tendências;
+Material complementar: Links dos Slides; Teste objetivo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-31/</guid>
+      <description>Aula 31 - 22.03.2022   Link: https://youtu.be/gfj_6pkcw1I
+Slides Motherboard
+Conteúdo: Placa-mãe; Barramentos; Controladores de barramento; Slots de expansão; IO; Processo de dimensionamento;
+Material complementar: Links dos Slides; Teste objetivo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/syllabus-orgman/docs/aula-32/</guid>
+      <description>Aula 32 - 24.03.2022   Link: https://youtu.be/Tl_GAJ2tH0Y
+Slides GPU
+Conteúdo: Geração de discos inicializáveis; GPU e Monitores;
+Material complementar: Links dos Slides; Teste objetivo;
+ Tutorial de geração de discos de inicialização Geração de discos de inicialização - Instalação de sistemas operacionais
+Imagem de um disco de inicialização -&amp;gt; arquivo .ISO
+Download da imagem (arquivo ISO)
+queimar o arquivo num flash/pendrive -&amp;gt; Instalando o disco de inicialização/instalação do sistema operacional no pendrive</description>
+    </item>
+    
+  </channel>
+</rss>
